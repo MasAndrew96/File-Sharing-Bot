@@ -1,4 +1,4 @@
-#(©)Codexbotz
+
 #(©)Prince Andrew Database
 
 import asyncio
